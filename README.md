@@ -7,3 +7,4 @@ interactive dashboards for monitoring IoT systems.
 **Learning Outcomes**
 ● Publish telemetry data and visualize it using ThingsBoard dashboards.
 ● Implement basic rule chains for event-driven automation.
+[[IoT-hk242]_Lab2_report.pdf](https://github.com/user-attachments/files/19629681/IoT-hk242._Lab2_report.pdf)
